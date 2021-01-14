@@ -1,6 +1,6 @@
 ### Hi there 👋, Waqas Hussain
 #### Developer
-![I am GitHub Readme Generator's creator](https://magenticians.com/hire-a-magento-developer/)
+![I am GitHub Readme Generator's creator](https://github.com/waqassh/waqassh/blob/main/How-you-can-hire-a-magento-developer-Banner.jpg)
 
 I'm Waqas from Belgium Antwerp city. I'm currently a student in programming. I really enjoy learning languages and frameworks like React, React Native and C#, as well as working in Headless WordPress.
 
