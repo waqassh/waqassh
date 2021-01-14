@@ -4,6 +4,7 @@ I'm Waqas from Belgium Antwerp city. I'm currently a student in programming. I r
 
 Skills: REACT / JS / React Native / HTML / CSS / C# / ASP.Net Core / Gatsby
 
+- 🔭 I’m currently working on school projects and internship projects 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/waqassh)  
