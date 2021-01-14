@@ -2,7 +2,14 @@
 #### Developer
 I'm Waqas from Belgium Antwerp city. I'm currently a student in programming. I really enjoy learning languages and frameworks like React, React Native and C#, as well as working in Headless WordPress.
 
-Skills: REACT / JS / React Native / HTML / CSS / C# / ASP.Net Core / Gatsby
+## Skills and Experience
+*  ⚛REACT
+* 📱React Native
+* 💻HTML / CSS / JS
+* C#
+* Asp.Net Core
+* Gatsby
+
 
 - 🔭 I’m currently working on school projects and internship projects 
 
