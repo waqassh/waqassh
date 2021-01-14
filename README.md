@@ -10,6 +10,9 @@ I'm Waqas from Belgium Antwerp city. I'm currently a student in programming. I r
 * C#
 * Asp.Net Core
 * Gatsby
+* Node Js
+* MySQL
+* Mongo DB
 
 
 - 🔭 I’m currently working on school projects and internship projects 
